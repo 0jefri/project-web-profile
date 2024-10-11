@@ -69,7 +69,7 @@
   color: black;
 }
 
-.home {
+#home {
   margin: 0;
   background-size: cover;
   background-position: center;
@@ -87,13 +87,13 @@
   border-bottom: 12px solid white;
 }
 
-.home p {
+#home p {
   color: #f55c47;
   font-size: 30px;
   font-weight: 700;
 }
 
-.home h1 {
+#home h1 {
   text-align: center;
   color: white;
   font-size: 80px;
